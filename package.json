@@ -1,0 +1,11 @@
+{
+  "name": "lynx-analytics-website",
+  "version": "1.0.0",
+  "description": "Lynx Analytics — NBA predictions website",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {}
+}

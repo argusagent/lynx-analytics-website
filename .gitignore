@@ -1,0 +1,28 @@
+# Secrets & tokens
+.vercel-token
+.vercel-magic-link
+.deployed-url
+*.json.bak
+
+# Debug screenshots
+debug-*.png
+
+# Archives
+*.zip
+
+# Deploy scripts (internal only)
+deploy-*.js
+netlify-*.js
+vercel-*.js
+get-vercel-*.js
+use-vercel-*.js
+read-vercel-*.js
+check-gmail.js
+
+# Vercel internals
+.vercel/
+
+# Emails data
+data/emails.json
+
+node_modules/

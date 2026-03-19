@@ -1,0 +1,184 @@
+{
+  "generatedAt": "2026-03-19T04:54:36.293Z",
+  "record": {
+    "wins": 8,
+    "losses": 5,
+    "pushes": 0,
+    "units": 2.28,
+    "winPct": 61.5,
+    "streak": "1W",
+    "lastUpdated": "2026-03-19"
+  },
+  "today": [],
+  "history": [
+    {
+      "date": "2026-03-18",
+      "record_on_day": "3-2",
+      "picks": [
+        {
+          "pick": "Brooklyn Nets +18.5 (-110)",
+          "game": "Oklahoma City Thunder @ Brooklyn Nets",
+          "edge": 12.2,
+          "confidence": 5,
+          "keyFactor": "",
+          "odds": -110,
+          "result": "LOSS",
+          "actualScore": null,
+          "units": 0
+        },
+        {
+          "pick": "Indiana Pacers +12.5 (-110)",
+          "game": "Portland Trail Blazers @ Indiana Pacers",
+          "edge": 11.6,
+          "confidence": 5,
+          "keyFactor": "",
+          "odds": -110,
+          "result": "WIN",
+          "actualScore": null,
+          "units": 0
+        },
+        {
+          "pick": "Memphis Grizzlies +13.5 (-110)",
+          "game": "Denver Nuggets @ Memphis Grizzlies",
+          "edge": 9.1,
+          "confidence": 5,
+          "keyFactor": "",
+          "odds": -110,
+          "result": "WIN",
+          "actualScore": null,
+          "units": 0
+        },
+        {
+          "pick": "Utah Jazz +13.5 (-110)",
+          "game": "Utah Jazz @ Minnesota Timberwolves",
+          "edge": 5.2,
+          "confidence": 5,
+          "keyFactor": "",
+          "odds": -110,
+          "result": "LOSS",
+          "actualScore": null,
+          "units": 0
+        },
+        {
+          "pick": "Prairie View A&M +3.5 (-110)",
+          "game": "Prairie View A&M @ Lehigh",
+          "edge": 3.5,
+          "confidence": 5,
+          "keyFactor": "",
+          "odds": -110,
+          "result": "WIN",
+          "actualScore": null,
+          "units": 0
+        }
+      ]
+    },
+    {
+      "date": "2026-03-17",
+      "record_on_day": "3-1",
+      "picks": [
+        {
+          "pick": "CHA -4",
+          "game": "Miami Heat @ Charlotte Hornets",
+          "market": "spread",
+          "edge": "5.0",
+          "confidence": 5,
+          "keyFactor": "MIA missing Wiggins, Rozier, Jovic — three rotation players out",
+          "odds": -110,
+          "result": "WIN",
+          "actualScore": "MIA 106 @ CHA 136",
+          "units": 1
+        },
+        {
+          "pick": "MIL +10",
+          "game": "Cleveland Cavaliers @ Milwaukee Bucks",
+          "market": "spread",
+          "edge": "12.3",
+          "confidence": 5,
+          "keyFactor": "CLE road B2B, Jarrett Allen OUT — model projects near pick-em",
+          "odds": -110,
+          "result": "WIN",
+          "actualScore": "CLE 123 @ MIL 116",
+          "units": 1
+        },
+        {
+          "pick": "ORL +9.5",
+          "game": "Oklahoma City Thunder @ Orlando Magic",
+          "market": "spread",
+          "edge": "8.4",
+          "confidence": 5,
+          "keyFactor": "OKC on B2B, Jalen Williams OUT — laying 9.5 in this spot is too much chalk",
+          "odds": -110,
+          "result": "WIN",
+          "actualScore": "OKC 113 @ ORL 108",
+          "units": 1
+        },
+        {
+          "pick": "Under 234.5",
+          "game": "Washington Wizards @ Detroit Pistons",
+          "market": "total",
+          "edge": "7.3",
+          "confidence": 4,
+          "keyFactor": "Both teams depleted, both B2B — model projects 227",
+          "odds": -110,
+          "result": "LOSS",
+          "actualScore": "WSH 117 @ DET 130 (Total: 247)",
+          "units": -1
+        }
+      ]
+    },
+    {
+      "date": "2026-03-16",
+      "record_on_day": "2-2",
+      "picks": [
+        {
+          "pick": "ATL -3.5",
+          "game": "Orlando Magic @ Atlanta Hawks",
+          "market": "spread",
+          "edge": "7.6",
+          "confidence": 5,
+          "keyFactor": "ORL missing Anthony Black, Franz Wagner, Jonathan Isaac",
+          "odds": -110,
+          "result": "WIN",
+          "actualScore": "ORL 112 @ ATL 124",
+          "units": 1
+        },
+        {
+          "pick": "MEM +7",
+          "game": "Memphis Grizzlies @ Chicago Bulls",
+          "market": "spread",
+          "edge": "3.8",
+          "confidence": 5,
+          "keyFactor": "CHI missing 6 players — model has CHI -3.2, market -7",
+          "odds": -110,
+          "result": "LOSS",
+          "actualScore": "MEM 107 @ CHI 132",
+          "units": -1
+        },
+        {
+          "pick": "DAL +9",
+          "game": "Dallas Mavericks @ New Orleans Pelicans",
+          "market": "spread",
+          "edge": "7.0",
+          "confidence": 5,
+          "keyFactor": "NOP 21-61 team, market line inflated; Kyrie/Lively already factored in",
+          "odds": -110,
+          "result": "LOSS",
+          "actualScore": "DAL 111 @ NO 129",
+          "units": -1
+        },
+        {
+          "pick": "LAL +2",
+          "game": "Los Angeles Lakers @ Houston Rockets",
+          "market": "spread",
+          "edge": "3.7",
+          "confidence": 5,
+          "keyFactor": "HOU missing Adams, VanVleet, Tate — model has LAL slightly favored",
+          "odds": -105,
+          "result": "WIN",
+          "actualScore": "LAL 100 @ HOU 92",
+          "units": 1
+        }
+      ]
+    }
+  ]
+}
