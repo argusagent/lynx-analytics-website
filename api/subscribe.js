@@ -194,13 +194,15 @@ function buildWelcomeEmail(email, tier, discordInvite) {
         </div>` : `
         <div style="color:#A8BCD0;font-size:13px;line-height:1.8">
           → <a href="https://x.com/LynxAnalysis" style="color:#00B4FF">@LynxAnalysis</a> — daily picks (~2 PM ET)<br>
-          → <a href="https://lynx-analytics-ten.vercel.app" style="color:#00B4FF">lynx-analytics-ten.vercel.app</a> — live record &amp; stats
+          → <a href="https://lynxanalysis.com" style="color:#00B4FF">lynxanalysis.com</a> — live record &amp; stats
         </div>`}
     </div>
   </div>
   <div style="text-align:center;padding-bottom:28px">
-    <a href="https://lynx-analytics-ten.vercel.app" style="background:#00B4FF;color:#000;font-weight:700;padding:12px 28px;border-radius:8px;text-decoration:none;font-size:13px;display:inline-block;margin-bottom:16px">View the Site →</a>
+    <a href="https://lynxanalysis.com" style="background:#00B4FF;color:#000;font-weight:700;padding:12px 28px;border-radius:8px;text-decoration:none;font-size:13px;display:inline-block;margin-bottom:16px">View the Site →</a>
     <div style="font-size:11px;color:#5A7090;line-height:1.6">Lynx Analytics · For informational and entertainment purposes only.</div>
   </div>
 </div></body></html>`;
 }
+
+
